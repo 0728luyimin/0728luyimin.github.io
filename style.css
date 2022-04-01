@@ -1,0 +1,63 @@
+  body {
+    background-color: #ffa3b9;
+    margin: 0px;
+    padding-top: 50px;
+  }
+  
+  /*导航条*/
+  #nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #e47586;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  li {
+    display: inline-block;
+  }
+  li a {
+    display: block;
+    color: #fff7f5;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #ffa3b9;
+  }
+  /*内容*/
+  h1{
+    font-size: 80px;
+    color: #0000ff;
+    margin: 50px 100px;
+    text-align: center;
+  }
+  p{
+    font-size:20px;
+    margin: 50px 200px;
+    color: #fff;
+  }
+  p.p1{
+      font-size: 16px;
+      margin:10px 200px;
+      text-align: center;
+  }
+  img{
+    text-align: center;
+  }
+  h2{
+    font-size: 40px;
+    color: #ffff00;
+    margin: 50px 200px -40px;
+  }
+  /*footer*/
+  #footer{
+    background-color: #e47586;
+    color: #fff;
+    text-align: center;
+    padding: 15px 20px;
+    margin-top: 50px;
+    }
